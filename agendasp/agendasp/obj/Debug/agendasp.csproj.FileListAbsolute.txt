@@ -1,0 +1,16 @@
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\bin\Debug\agendasp.exe.config
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\bin\Debug\agendasp.exe
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\bin\Debug\agendasp.pdb
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\obj\Debug\agendasp.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\obj\Debug\agendasp.Form1.resources
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\obj\Debug\agendasp.Properties.Resources.resources
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\obj\Debug\agendasp.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\obj\Debug\agendasp.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\obj\Debug\agendasp.exe
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\obj\Debug\agendasp.pdb
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\bin\Debug\Capa_entidad.dll
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\bin\Debug\Capa_negosio.dll
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\bin\Debug\Capa_datos.dll
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\bin\Debug\Capa_entidad.pdb
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\bin\Debug\Capa_negosio.pdb
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\agendasp\bin\Debug\Capa_datos.pdb

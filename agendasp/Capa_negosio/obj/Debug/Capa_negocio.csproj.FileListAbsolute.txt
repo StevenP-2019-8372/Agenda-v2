@@ -1,0 +1,11 @@
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\Capa_negosio\bin\Debug\Capa_negosio.dll
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\Capa_negosio\bin\Debug\Capa_negosio.pdb
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\Capa_negosio\bin\Debug\Capa_datos.dll
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\Capa_negosio\bin\Debug\Capa_entidad.dll
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\Capa_negosio\bin\Debug\Capa_datos.pdb
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\Capa_negosio\bin\Debug\Capa_entidad.pdb
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\Capa_negosio\obj\Debug\Capa_negocio.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\Capa_negosio\obj\Debug\Capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\Capa_negosio\obj\Debug\Capa_negosio.dll
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\Capa_negosio\obj\Debug\Capa_negosio.pdb
+C:\Users\steve\OneDrive\Escritorio\proyectos\agendasp\Capa_negosio\obj\Debug\Capa_negocio.csproj.CopyComplete
